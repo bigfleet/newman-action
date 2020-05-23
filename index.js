@@ -1,6 +1,5 @@
 const core = require('@actions/core')
 const newman = require('newman')
-const htmlextra = require('newman-reporter-htmlextra')
 
 init()
 
