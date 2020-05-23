@@ -19,8 +19,10 @@
   "author": "Matt Ball",
   "license": "Apache-2.0",
   "dependencies": {
-    "@actions/core": "^1.0.0",
-    "newman": "^5.0.1"
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^2.2.0",
+    "newman": "^5.0.1",
+    "newman-reporter-htmlextra": "^1.15.3"
   },
   "devDependencies": {
     "standard": "^14.0.2"
