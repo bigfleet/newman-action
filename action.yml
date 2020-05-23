@@ -68,4 +68,4 @@ inputs:
     description: 'Secret client key passphrase'
 runs:
   using: 'node12'
-  main: 'index.js'
+  main: 'dist/index.js'
