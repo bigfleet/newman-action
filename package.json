@@ -21,7 +21,7 @@
   "dependencies": {
     "@actions/core": "^1.2.4",
     "@actions/github": "^2.2.0",
-    "newman": "^5.0.1",
+    "newman": "^5.1.2",
     "newman-reporter-htmlextra": "^1.15.3"
   },
   "devDependencies": {
